@@ -1,2 +1,2 @@
 # Cert-Dump
-Certificates Obtained throughout the years
+Certificates Obtained Throughout The Years
